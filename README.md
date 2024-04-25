@@ -1,3 +1,3 @@
 # Write-ups
-Write ups for various CTF challenges:
+Write ups for CTF challenges:
 - [SpringForwardCTF2024](https://springforward.ctfd.io/)
