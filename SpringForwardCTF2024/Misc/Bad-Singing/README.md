@@ -5,6 +5,6 @@
 - Solution
 
 I opened the file with Sonic Visualiser and added 3 panels to see the flag
-![photo](./photo1.png)
+![photo](./Photo1.png)
 
 Flag: nicc{jump-in}
