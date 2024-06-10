@@ -1,0 +1,26 @@
+# XOR
+
+## The executable below outputs an encrypted flag using the XOR operator. Can you decompile and reveal the flag?
+
+Wrote a script that XORs and found the flag.
+
+```
+encrypted_flag = [
+    0x21, 0x0F, 0x0A, 0x15, 0x3F, 0x29, 0x29, 0x6B, 0x13, 0x1C, 0x2C, 0x74,
+    0x7D, 0x30, 0x5E, 0x50, 0x6E, 0x29, 0x2B, 0x24, 0x19, 0x0C, 0x67, 0x7D,
+    0x05, 0x54, 0x7C, 0x34, 0x5C, 0x13, 0x32, 0x42, 0x29, 0x62, 0x7B, 0x0F,
+    0x4E
+]
+
+key = "ClkvKOR8JQA1JB731LeGkU7J4d2khDvrOPI63mM7"
+
+flag = ""
+
+for i in range(len(encrypted_flag)):
+    decrypted_byte = encrypted_flag[i] ^ ord(key[i % len(key)])
+    flag += chr(decrypted_byte)
+
+print("Decrypted flag:", flag)
+```
+
+Flag: `bcactf{SYMmE7ric_eNcrYP710N_4WD0f229}`
