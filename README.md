@@ -4,3 +4,4 @@ Write ups for CTF challenges:
 - [BYUCTF 2024](https://ctfd.cyberjousting.com/)
 - [N0PSctf](https://ctf.nops.re/)
 - [BCACTF 5.0](https://www.bcactf.com/)
+- [Wani CTF 2024](https://score.wanictf.org/)
