@@ -5,3 +5,4 @@ Write ups for CTF challenges:
 - [N0PSctf](https://ctf.nops.re/)
 - [BCACTF 5.0](https://www.bcactf.com/)
 - [Wani CTF 2024](https://score.wanictf.org/)
+- [The Hacker Conclave](https://ctf.thehackerconclave.es/)
