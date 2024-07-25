@@ -7,3 +7,4 @@ Write ups for CTF challenges:
 - [Wani CTF 2024](https://score.wanictf.org/)
 - [The Hacker Conclave](https://ctf.thehackerconclave.es/)
 - [UIUCTF 2024](https://2024.uiuc.tf/)
+- 
