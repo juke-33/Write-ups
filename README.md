@@ -11,3 +11,4 @@ Write ups for CTF challenges:
 - [TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://ctf.tcp1p.team/)
 - [DEADFACE CTF 2024](https://ctf.deadface.io/)
 - [SpookyCTF 2024](https://spookyctf.ctfd.io/)
+- [SummitCTF 2025](https://summit.ctfd.io/)
