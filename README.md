@@ -13,3 +13,4 @@ Write ups for CTF challenges:
 - [SpookyCTF 2024](https://spookyctf.ctfd.io/)
 - [SillyCTF 2025](https://sillyctf.psuccso.org/)
 - [SummitCTF 2025](https://summit.ctfd.io/)
+- [ACECTF 1.0](http://acectf.tech/)
