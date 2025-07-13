@@ -14,4 +14,4 @@ Write ups for CTF challenges:
 - [SillyCTF 2025](https://sillyctf.psuccso.org/)
 - [SummitCTF 2025](https://summit.ctfd.io/)
 - [ACECTF 1.0](http://acectf.tech/)
-- [ECSC GE Quals 2025](https://quals-ecsc-gr.ctflib.eu/)
+- [ECSC GR Quals 2025](https://quals-ecsc-gr.ctflib.eu/)
