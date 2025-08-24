@@ -15,3 +15,4 @@ Write ups for CTF challenges:
 - [SummitCTF 2025](https://summit.ctfd.io/)
 - [ACECTF 1.0](http://acectf.tech/)
 - [ECSC GR Quals 2025](https://quals-ecsc-gr.ctflib.eu/)
+- [BrunnerCTF 2025](https://brunnerctf.dk/)
