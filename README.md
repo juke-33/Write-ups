@@ -1,5 +1,7 @@
 # Owner of 1c3Gh3tt0
-[1c3Gh3tt0 website](https://1c3gh3tt0.github.io/website/)
+- [Website](https://1c3gh3tt0.github.io/website/)
+- [CTFtime](https://ctftime.org/team/299748)
+- [Twitter](https://x.com/1c3Gh3tt0)
 
 # Write-ups
 Write ups for CTF challenges:
