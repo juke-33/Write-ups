@@ -16,3 +16,4 @@ Write ups for CTF challenges:
 - [ACECTF 1.0](http://acectf.tech/)
 - [ECSC GR Quals 2025](https://quals-ecsc-gr.ctflib.eu/)
 - [BrunnerCTF 2025](https://brunnerctf.dk/)
+- [MetaCTF August 2025 Flash CTF](https://compete.metactf.com/453/)
