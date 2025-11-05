@@ -24,3 +24,4 @@ Write ups for CTF challenges:
 - [MetaCTF August 2025 Flash CTF](https://compete.metactf.com/453/)
 - [Full Week Engineer CTF 2025](https://ctf.fwectf.com/)
 - [07CTF 2025](https://ctf.0bscuri7y.xyz/)
+- [UWSP Pointer Overflow CTF 2025](https://pointeroverflowctf.com/)
